@@ -9,10 +9,10 @@ import java.util.regex.Pattern;
 public class LinuxCollector {
 
     public static void main(String[] args) {
-        String host = "134.119.179.22";
-        String username = "zabbix";
-        String password = "RevDau@123";
-        int port = 8822;
+        String host = "";
+        String username = "";
+        String password = "";
+        int port = ;
 
         try
         {
